@@ -1,7 +1,7 @@
 def¹: a system of symbols and rules of processing the symbols
     that represent mathematical sentences¹
     
-def²: field of mathematics in which we perform calculations with things that are not necessarily numbers and numbers.² 
+def²: field of mathematics in which we perform calculations with things that are not necessarily numbers.² 
 
 def expression:
     a sentence
